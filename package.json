@@ -1,0 +1,19 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "main": "Sum of Numbers.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/Sum of Numbers.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
