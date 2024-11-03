@@ -1,17 +1,16 @@
 {
-  "name": "lab6",
+  "name": "exam-tests",
   "version": "1.0.0",
-  "main": "Array Analyzer.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "chai": "^5.1.1",
-    "mocha": "^10.7.3"
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
   }
 }
