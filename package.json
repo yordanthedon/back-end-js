@@ -1,12 +1,10 @@
 {
-  "name": "lab5",
+  "name": "lab6",
   "version": "1.0.0",
-  "main": "Sum of Numbers.js",
-  "directories": {
-    "test": "tests"
-  },
+  "main": "Array Analyzer.js",
+  "type": "module",
   "scripts": {
-    "test": "mocha tests/Sum of Numbers.test.js"
+    "test": "mocha"
   },
   "keywords": [],
   "author": "",
